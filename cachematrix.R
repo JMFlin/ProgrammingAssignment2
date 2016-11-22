@@ -31,3 +31,4 @@ cacheSolve <- function(x, ...) {
     x$setmat(m) # cache the inverse
     m # returns the inverse
 }
+        
